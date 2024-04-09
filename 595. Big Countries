@@ -1,4 +1,3 @@
-595. Big Countries
 Table: World
 
 +-------------+---------+
@@ -47,7 +46,7 @@ Output:
 | Algeria     | 37100000   | 2381741 |
 +-------------+------------+---------+
 
-#Answer:
+#CODE:
 ```
 SELECT name,population,area
 from world
