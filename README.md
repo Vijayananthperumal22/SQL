@@ -1,4 +1,4 @@
 # SQL
 
 Hello
-Let's work together to solve my SQL problems. This is my solution; please msg me with any questions👽.
+Let's work together to solve Crack SQL Interview in 50 Qs. This are my solution👽.
