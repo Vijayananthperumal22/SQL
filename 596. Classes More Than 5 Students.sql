@@ -1,4 +1,4 @@
-Table: Courses
+#Table: Courses
 
 +-------------+---------+
 | Column Name | Type    |
@@ -18,7 +18,7 @@ The result format is in the following example.
 
  
 
-Example 1:
+#Example 1:
 
 Input: 
 Courses table:
@@ -49,8 +49,8 @@ Explanation:
 
 - #code
 - ```
-SELECT class
-FROM Courses
-GROUP BY class
-HAVING COUNT(student) >= 5;
+  SELECT class
+  FROM Courses
+  GROUP BY class
+  HAVING COUNT(student) >= 5;
   ```
