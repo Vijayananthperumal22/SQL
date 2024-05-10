@@ -44,7 +44,8 @@ Output:
 Explanation: 
 We have three movies with odd-numbered IDs: 1, 3, and 5. The movie with ID = 3 is boring so we do not include it in the answer.
 
-CODE
+CODE:
+ 
 
 select id,movie,description,rating 
 from Cinema 
